@@ -13,5 +13,5 @@
         android:id="@+id/listView"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"
-        android:background="@color/blue"/>
+        android:background="@color/red"/>
 </RelativeLayout>
