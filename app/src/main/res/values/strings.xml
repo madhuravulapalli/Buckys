@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Buckys</string>
+    <string-array name="country">
+        <item>india</item>
+        <item>pakistahan</item>
+        <item>USA</item>
+    </string-array>
+
+</resources>
